@@ -2,19 +2,26 @@
 
 ---
 
-Current sophmore @ Wright State University (CS & CEG)
+### Current sophomore @ Wright State University (CS & CEG)
 
-<!--
-**KalanchoeChrysanthemum/KalanchoeChrysanthemum** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Projects I plan on working on this semester
 
-Here are some ideas to get you started:
+- Machine learning in Rust
+    -
+    Project will be completed by following [tsoding's](https://github.com/tsoding) machine learning in c [playlist](https://www.youtube.com/watch?v=PGSba51aRYU&list=PLpM-Dvs8t0VZPZKggcql-MmjaBdZKeDMw) and implementing in Rust
+- Transistor level implementation of the microprocessor I built for CEG3320 (Digital System Design)
+    -
+    - Microprocessor circuit pictures TBA
+    
+    (Project will slowly be done as I learn the skills necessary in VLSI)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+    Converting high-level gate design into low-level optimized transistor design
+
+
+## Languages
+
+🦀Rust<br>☕Java<br>🐍Python
+
+## Software
+
+Logism<br>VSCode<br>Github
