@@ -8,6 +8,8 @@ Projects I plan on working on this semester
 
 - Machine learning in Rust
     -
+    Implementing a basic neural network capable of pattern recognition and generation
+
     Project will be completed by following [tsoding's](https://github.com/tsoding) machine learning in c [playlist](https://www.youtube.com/watch?v=PGSba51aRYU&list=PLpM-Dvs8t0VZPZKggcql-MmjaBdZKeDMw) and implementing in Rust
 - Transistor level implementation of the microprocessor I built for CEG3320 (Digital System Design)
     -
