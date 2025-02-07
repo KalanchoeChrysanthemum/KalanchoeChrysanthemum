@@ -1,29 +1,28 @@
-## Hi there, I'm Matthew 👋
+## Hi, I'm Matthew 👋
 
----
+### Current Junior @ [Wright State University](https://github.com/wrightedu)
+- Pursuing a BSCS & BSCEG (*Dual Major*)
+- *Minors in*:
+  - ADMETE (*Assured & Trusted Digital Microelectronics*)
+  - VLSI (*Very Large Scale Integrated Circuit Design*)
 
-### Current sophomore @ Wright State University (CS & CEG)
+### Projects That I'm Working On:
 
-Projects I plan on working on this semester
+- *MathLib*
 
-- Machine learning in Rust
-    -
-    Implementing a basic neural network capable of pattern recognition and generation
+- *Machine Learning in Rust*
 
-    Project will be completed by following [tsoding's](https://github.com/tsoding) machine learning in c [playlist](https://www.youtube.com/watch?v=PGSba51aRYU&list=PLpM-Dvs8t0VZPZKggcql-MmjaBdZKeDMw) and implementing in Rust
-- Transistor level implementation of the microprocessor I built for CEG3320 (Digital System Design)
-    -
-    - Microprocessor circuit pictures TBA
-    
-    (Project will slowly be done as I learn the skills necessary in VLSI)
+### Languages
 
-    Converting high-level gate design into low-level optimized transistor design
+🦀Rust<br>
+🦎Zig<br>
+🦫Go<br>
+©️C/C++<br>
+☕Java<br>
+🐍Python<br>
 
+### Software
 
-## Languages
-
-🦀Rust<br>☕Java<br>🐍Python
-
-## Software
-
-Logism<br>VSCode<br>Github
+Cadence Virtuoso<br>
+Xilinix Vivado<br>
+Logisim<br>
